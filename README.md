@@ -12,6 +12,7 @@ This project analyzes the famous Titanic dataset to predict passenger survival u
 ## Features
 - Data cleaning and preprocessing
 - Exploratory data analysis (EDA) with visualizations
+- The Custom preprocess_data function prepares Titanic datasets for machine learning by handling missing values, engineering features (e.g., titles, family size), scaling, and generating    polynomial features.
 - Machine learning models (Decision Tree, Logistic Regression, Random Forest, K-Nearest-Neighbors, Linear SVC, Support Vector Machine, Stochastic Gradient Descent, Perceptron, Naive Bayes)
 - Performance evaluation and insights
 
