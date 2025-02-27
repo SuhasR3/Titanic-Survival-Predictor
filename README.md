@@ -3,6 +3,9 @@
 ![](https://github.com/SuhasR3/Titanic-Survival-Predictor/blob/main/HW1/banner.png)
 ![](https://github.com/SuhasR3/Titanic-Survival-Predictor/blob/main/HW1/Titanic-Survival-Predictor-Output.png)
 
+![Python](https://img.shields.io/badge/python-3.8-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
 A data science project exploring survival predictions on the Titanic dataset using machine learning techniques.
 
