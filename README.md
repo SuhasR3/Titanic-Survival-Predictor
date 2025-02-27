@@ -1,6 +1,7 @@
 # Titanic Survival Predictor
 
 ![](https://github.com/SuhasR3/Titanic-Survival-Predictor/blob/main/HW1/banner.png)
+![](https://github.com/SuhasR3/Titanic-Survival-Predictor/blob/main/HW1/Titanic-Survival-Predictor-Output.png)
 
 
 A data science project exploring survival predictions on the Titanic dataset using machine learning techniques.
@@ -37,7 +38,6 @@ Open `titanic_data_solutions.ipynb` in Jupyter Notebook or Google Colab to run t
 ## Results
 Achieved the following accuracy values.
   
-![](https://github.com/SuhasR3/Titanic-Survival-Predictor/blob/main/HW1/Titanic-Survival-Predictor-Output.png)
   
 Key findings: "Women and children had higher survival rates & Pclass was a strong predictor."
 
@@ -46,5 +46,4 @@ Key findings: "Women and children had higher survival rates & Pclass was a stron
 - Dataset provided by [Kaggle](https://www.kaggle.com/c/titanic).
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/SuhasR3/Titanic-Survival-Predictor/blob/main/LICENSE.md)
-) file for details.   
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/SuhasR3/Titanic-Survival-Predictor/blob/main/LICENSE.md) file for details.   
