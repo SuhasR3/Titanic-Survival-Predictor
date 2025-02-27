@@ -21,7 +21,7 @@ This project analyzes the famous Titanic dataset to predict passenger survival u
 
 ## Getting Started
 ### Prerequisites
-- Python 3.x
+- Python 3.8
 - Jupyter Notebook
 - Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn` (see `requirements.txt`)
 
