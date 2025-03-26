@@ -1,6 +1,6 @@
 # Titanic Survival Predictor
 
-![](https://github.com/SuhasR3/Titanic-Survival-Predictor/blob/main/HW1/banner.png)
+![](https://github.com/SuhasR3/Titanic-Survival-Predictor/blob/main/dataset/banner.png)
 ![](https://github.com/SuhasR3/Titanic-Survival-Predictor/blob/main/HW1/Titanic-Survival-Predictor-Output.png)
 
 ![Python](https://img.shields.io/badge/python-3.8-blue)
