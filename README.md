@@ -41,7 +41,7 @@ Open `titanic_data_solutions.ipynb` in Jupyter Notebook or Google Colab to run t
 ## Results
 Achieved the following accuracy values.
 
-![](https://github.com/SuhasR3/Titanic-Survival-Predictor/blob/main/dataset/Titanic-Survival-Predictor-Output.png)
+![](https://github.com/SuhasR3/Titanic-Survival-Predictor/blob/main/dataset/Titanic_Survival_Predictor_Output.png)
   
 Key findings: "Women and children had higher survival rates & Pclass was a strong predictor."
 
