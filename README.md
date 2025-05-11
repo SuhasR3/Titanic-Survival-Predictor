@@ -39,6 +39,10 @@ This project analyzes the famous Titanic dataset to predict passenger survival u
 Open `titanic_data_solutions.ipynb` in Jupyter Notebook or Google Colab to run the analysis step-by-step.
 
 ## Results
+Resulting Decision Tree is as follows
+
+![](https://github.com/SuhasR3/Titanic-Survival-Predictor/blob/main/dataset/DT.png)
+
 Achieved the following accuracy values.
 
 ![](https://github.com/SuhasR3/Titanic-Survival-Predictor/blob/main/dataset/Titanic_Survival_Predictor_Output.png)
