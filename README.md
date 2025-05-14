@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
-A data science project exploring survival predictions on the Titanic dataset using machine learning techniques.
+A data science project exploring survival predictions on the Titanic dataset by cross comparing multiple machine learning techniques.
 
 ## Overview
 This project analyzes the famous Titanic dataset to predict passenger survival using data preprocessing, visualization, and machine learning models. Built as part of a Kaggle challenge, it showcases practical data science workflows and insights into what factors influenced survival aboard the RMS Titanic.
